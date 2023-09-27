@@ -1,7 +1,3 @@
-# cs47-a3-starter-w23
-a3 starter code
+# spotify integration to show fav songs
 
-Starting the app
-1. git clone https://github.com/acui51/cs47-a3-starter-w23.git
-2. `yarn install`
-3. `npx expo start`
+just login to Spotify, and see your favorite songs and some details about them!
